@@ -17,5 +17,5 @@
 
 - Github Pages: <br>
 https://gabrielgonmorais.github.io/TicTacToe-Web/ <br>
-https://gabrielgonmorais.github.io/SuperHeroes.Client/
-
+https://gabrielgonmorais.github.io/SuperHeroes.Client/ <br>
+https://gabrielgonmorais.github.io/Tasks-List/
