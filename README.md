@@ -1,7 +1,6 @@
 ### Hey! Nice to see you 👋 Visit my projects
 
-- 🌱 I’m currently learning: .NET 7, React and some PHP.
-- :computer: I’m looking for a Developer Job.
+- 🌱 I’m currently working with a Javascript ERP
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGonMorais&layout=compact&langs_count=7&theme=dracula"/><br>
 <div style="display: inline_block">
